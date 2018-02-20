@@ -1,4 +1,4 @@
-package com.telsko.hib.runners;
+package com.telusko.hib.runners;
 
 import com.telusko.hib.dao.AlienDao;
 import com.telusko.hib.model.AlienLaptopModel;

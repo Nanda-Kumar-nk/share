@@ -1,4 +1,4 @@
-package com.telsko.hib.runners;
+package com.telusko.hib.runners;
 
 import java.util.Arrays;
 import java.util.List;

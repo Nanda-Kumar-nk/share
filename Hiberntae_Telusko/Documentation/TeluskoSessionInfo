@@ -1,0 +1,9 @@
+1. Till Hibernate Session 3 -- CRUD Operations Explained
+2. Runner 1 is for general CRUD Runner 2 have Tech Table used two tables correlated @Embeddable and @Transient
+   and @GeneratedValue
+   
+3. Runner 3  deals with the two entity aliens and laptop. Here both the entities are different tables. OneToOne
+
+4. Runner 4 deals with one Alien and differnt computers. OneToMany
+
+5. Runner 5 deals with many to many mapping. ManyToMany

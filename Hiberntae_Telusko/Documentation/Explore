@@ -1,0 +1,13 @@
+1. Due to INotes 1, the session needs to seperated, so wanted to know how to create a dynamic session for user specific 
+   entities. parameterized function with input parameter as entity names and return as session
+   addannotatedclass should accept generics
+
+2. create, update and other parameters in the hbmddl.auto at the same time? possible or not
+
+3. Difference between Entityname and Table name in hibernate and how it will affect the HQL
+
+4. Complete all the CRUD operations
+
+5. ManyToMany Example
+
+6. 

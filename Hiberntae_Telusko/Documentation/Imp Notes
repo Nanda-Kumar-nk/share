@@ -1,0 +1,13 @@
+1. If we create a SessionFactory with two classes as shown below and save a non existing table with hbm2ddl.auto as true 
+then all the tables under the scope of SessionFactory will be dropped and recreated. Be careFul.
+     sf=config.configure().addAnnotatedClass(NewTable.class).buildSessionFactory();
+     session.save(newtable)
+ Then alien and newtable will great dropped and recreated
+ To avoid that we need to create  a different Configuration and SessionFactory and open this session.
+ 
+ 2. Create in hbm2ddl.auto will recreate a new table even though the table exists in database.
+ 
+ 3. 
+   
+    
+ 
